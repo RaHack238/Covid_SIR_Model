@@ -11,7 +11,7 @@ I used the dataset from the below link
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports_us
 (till 21st June 2020)
 
-I then refined the dataset using Microsoft Excel and the final dataset is as in the folder
+I then refined the dataset using Microsoft Excel and the final dataset is as in the folder Datasets (GithubData.csv)
 <br>
 I have indented and commented the code which would make it easy for you guys to understand it
 <br>However, if you have any doubts and know me, you can contact me for clarification :)
